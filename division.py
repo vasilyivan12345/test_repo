@@ -10,6 +10,6 @@ if __name__ == '__main__':
     
     args = parser.parse_args()
     try:
-        print(args.numeratorawv7ie72367qwgasdouasdfasffaFS / args.divisor)
+45        print(args.numeratorawv7ie72367qwgasdouasdfasffaFS / args.divisor)
     except:
         raise io.RumTimeError
